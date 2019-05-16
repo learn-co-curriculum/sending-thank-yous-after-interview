@@ -1,7 +1,10 @@
 ## Sending Thank You's After an Interview
 
-Since your #1 goal is to be a no-brainer hire, you must keep this goal in mind across all your job search activities, including formal interviews, as well as informal interviews, coffee meetings, etc..
-The networking process doesn’t stop after you hang up the phone or leave a café or someone’s office. It’s your job to send a thank you note following every conversation you have, regardless of whether it’s on the phone or in person, a networking coffee or informational interview, and even if you’ve already met or spoken to that person before. Every single one of these exchanges is an opportunity for you to make an impression on someone who could either directly or indirectly help you get a job, now or in the future.  In turn, a thank you is expected behavior, so if you don’t do it, you’re damaging your chances of continuing to build and maintain your relationship and professional credibility. 
+Since your #1 goal is to be a no-brainer hire, you must keep this goal in mind across all your job search activities, including formal interviews, as well as informal interviews, coffee meetings, etc.
+
+The networking process doesn’t stop after you hang up the phone or leave a café or someone’s office. It’s your job to send a thank you note following every conversation you have, regardless of whether it’s on the phone or in person, a networking coffee or informational interview, and even if you’ve already met or spoken to that person before. 
+
+Every single one of these exchanges is an opportunity for you to make an impression on someone who could either directly or indirectly help you get a job, now or in the future.  In turn, a thank you is expected behavior, so if you don’t do it, you’re damaging your chances of continuing to build and maintain your relationship and professional credibility. 
 
 Thank you notes don’t just say ‘thank you’, they add value and continue to build the relationship with the contact/company.
 
@@ -11,7 +14,7 @@ Examples of when to send a thank you note:
 - After a formal interview with HR, Recruiting, a hiring manager, or their colleagues
 - After an interview of any kind
 - After a networking coffee
-- After meeting someone at a meetup/hackathon/developer conference
+- After meeting someone at a meetup/hackathon/conference
 - And every other interview ;)
 
 Here are key best practices for your thank you:
@@ -49,7 +52,7 @@ Your thank you note must address the following points:
 - Indicates your interest in what was discussed and excitement for the job and your desire for future conversations.
 - Contains your phone number in the closing of the note.
 - Optionally, your note may also address the following points:
-- Perhaps mention specific technologies you have studied/used that were discussed the company uses.
+- Perhaps mention specific technologies, competencies, and tools you have studied/used that were discussed the company uses.
 - Contains a blog post you wrote that you think the person/employer would appreciate and is in some way tied to the conversation you had with them.
 - If when answering a technical question the interviewer tells you you answered something wrong, this is your chance to redeem yourself. Explain what you would have done differently, clarify what you meant to say and/or write a blog post about that specific topic and include it in the note. This shows your commitment to excellence, your desire for the job and directly reflects how you would act in a real work setting.
 
@@ -58,11 +61,11 @@ Your thank you note must address the following points:
 
 The example below uses appropriate language, enthusiasm and appreciation, while also clearly communicating the candidate’s interest in continuing the process. This example email is to an internal recruiter (James) who has brought the student in for a round of interviews with other employees at the company.
 
-> Subject: Thank You! Junior Developer Interviews
+> Subject: Thank You for the Interview
 
 > James,
 
-> Great to see you yesterday and thank you again for helping to coordinate my interviews for the Junior Developer role.
+> Great to see you yesterday and thank you again for helping to coordinate my interviews for the [Job Title] role.
 
 > It was fantastic to meet with Peter and Jane - it was heartening to see that they're so engaged with team members on all levels, all the more so because they're such smart, personable individuals.
 
@@ -80,10 +83,12 @@ The example below uses appropriate language, is enthusiastic about the role and 
 
 > Hi Mark,
 
-> Thanks so much for taking the time out of your day to meet with me this afternoon. It was a pleasure speaking to you, visiting the office, and learning about [Insert here something that came up in conversation, could be non-tech related or funny, building rapport].
+> Thanks so much for taking the time out of your day to meet with me this afternoon. It was a pleasure speaking to you, visiting the office, and learning about [Insert here something that came up in conversation, could be non-industry related or funny, building rapport].
 
-> I really enjoyed our conversation about Swift. While I have focused the last few months on learning Objective-C, I’m fully confident l can leverage my ability to pick up new languages quickly, and transfer my experience with other languages that share similarities with Swift into building apps in Swift. (Extensions in Swift are like Ruby open classes, and ARC in Swift is the same as in Objective-C).
-I believe I have the passion and drive to make a valuable contribution to your team, and I am excited about this potential opportunity to join Company X.  I look forward to seeing you at the next Brooklyn Swift meetup!
+> I really enjoyed our conversation about Sketch and Axure and leveraging prototyping tools for testing. Though I have only started in the last few weeks on learning Figma, I am fully confident I can leverage my ability to pick up new software to be using it for projects very quickly. 
+
+>Furthermore, I believe I have the passion and drive to make a valuable contribution to your team, and I am excited about this potential opportunity to join Company X.  I look forward to seeing you at the next Interaction Design Association meetup!
+
 
 > Thanks again for your time. 
 
@@ -91,15 +96,17 @@ I believe I have the passion and drive to make a valuable contribution to your t
 
 > Jessica Maxwell
 
-The example below is extremely enthusiastic and detailed about the interview process. Melina is telling Alyson (the tech recruiter) about her experiences in today’s interview and also indicated some specific details following the coffee meeting she had with Alyson at the end of the day.
+The example below is extremely enthusiastic and detailed about the interview process. Melina is telling Alyson (the recruiter) about her experiences in today’s interview and also indicated some specific details following the coffee meeting she had with Alyson at the end of the day.
 
 > Subject: Thank You - Support Engineer Position
 
 > Hi Alyson,
 
-> I wanted to thank you for setting up my interviews today and also for taking the time to speak with me over coffee at the end of the day. I really enjoyed learning more about the responsibilities of a Support Engineer, and hearing about the inclusive culture at Company X.
-The challenges that I worked on with Nate were fantastic and eye-opening. I learned so much from working with him and exploring new technologies during our debugging session.
-Just to reiterate, I am very excited about the prospect of working at Company X. It is by far my first choice to start my career as a developer, and I can't wait to continue this process.
+> I wanted to thank you for setting up my interviews today and also for taking the time to speak with me over coffee at the end of the day. I really enjoyed learning more about the responsibilities of a [Job Title], and hearing about the inclusive culture at [Company X].
+
+>The challenges that I worked on with Nate were fantastic and eye-opening. I learned so much from working with him and exploring new technologies during our [style of technical interview] session.
+
+>Just to reiterate, I am very excited about the prospect of working at [Company X]. It is by far my first choice to start my career, and I can't wait to continue this process.
 
 > Look forward to hearing from you soon!
 
@@ -116,7 +123,7 @@ The below example is vague, uses generic language and lacks enthusiasm, interest
 
 > Dear Chris,
 
-> Thank you for your time. It was a pleasure meeting you and learning more about what your company is looking for in this role. As you see from my resume and interview, I possess the exact skills your company requires, as well as a strong work ethic.
+> Thank you for your time. It was a pleasure meeting you and learning more about what your company is looking for in this role. As you can see from my resume and interview, I possess the exact skills your company requires, as well as a strong work ethic.
 
 > I look forward to hearing from you soon.
 
@@ -140,10 +147,10 @@ In the below email there is no subject line, and there is a typo. (Always proofr
 
 > Hey Veronica,
 
-> I would again like to thank you for the opportunity to speak with you this evening. I know with the way things are going over at Company X, and the way you guys are growing, things must be very busy so I really appreciate you allowing me a moment of your valuable time to speak with you about the possibility of filling the your open role. With that being said I look forward to speaking with you again about the possible next steps that shall be taking place within this interview process and also speaking with a manger/ engineer over at Company X. Thank you again and have a great day.
+> I would again like to thank you for the opportunity to speak with you this evening. I know with the way things are going over at [Company X], and the way you guys are growing, things must be very busy so I really appreciate you allowing me a moment of your valuable time to speak with you about the possibility of filing the your open role. With that being said I look forward to speaking with you again about the possible next steps that shall be taking place within this interview process and also speaking with a hiring manger over at [Company X]. Thank you again and have a great day.
 
 > Pierre Pastelle
 
 ### Next Steps
 
-Consider your previous thank you notes. Think about what you did successfully. What did you do successfully? What was missing? Use this lesson to help you craft strong, impactful thank you notes and habits going forward. Be sure to run the first few thank you notes by your coach before sending them.
+Consider your previous thank you notes. Think about what you did successfully. What did you do successfully? What was missing? Use this lesson to help you craft strong, impactful thank you notes and habits going forward. Be sure to run the first few thank you notes by your Career Coach before sending them.
