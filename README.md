@@ -11,7 +11,7 @@ Thank you notes don’t just say ‘thank you’, they add value and continue to
 Examples of when to send a thank you note:
 
 - After an initial conversation with an HR or recruiting professional
-- After a formal interview with HR, Recruiting, a hiring manager, or their colleagues
+- After a formal interview with HR, recruiting, a hiring manager, or their colleagues
 - After an interview of any kind
 - After a networking coffee
 - After meeting someone at a meetup/hackathon/conference
@@ -21,7 +21,7 @@ Here are key best practices for your thank you:
 
 **Send your thank you no later than 24 hours after every networking conversation, meeting, interview or communication exchange.**
 
-This shows you are timely and seriously interested. Plus, it helps the person you met/interviewer remember you more, as you are still fresh in their mind. Do this even if you’ve met them interviewer before, or on several occasions.
+This shows you are timely and seriously interested. Plus, it helps the person you met/interviewer remember you more, as you are still fresh in their mind. Do this even if you’ve met the interviewer before, or on several occasions.
 
 
 **Email each interviewer individually.**
@@ -52,7 +52,7 @@ Your thank you note must address the following points:
 - Indicates your interest in what was discussed and excitement for the job and your desire for future conversations.
 - Contains your phone number in the closing of the note.
 - Optionally, your note may also address the following points:
-- Perhaps mention specific technologies, competencies, and tools you have studied/used that were discussed the company uses.
+- Perhaps mention specific technologies, competencies, and tools you have studied/used that were discussed and that the company uses.
 - Contains a blog post you wrote that you think the person/employer would appreciate and is in some way tied to the conversation you had with them.
 - If when answering a technical question the interviewer tells you you answered something wrong, this is your chance to redeem yourself. Explain what you would have done differently, clarify what you meant to say and/or write a blog post about that specific topic and include it in the note. This shows your commitment to excellence, your desire for the job and directly reflects how you would act in a real work setting.
 
@@ -141,7 +141,7 @@ The below example does not specifically mention anything about the interview nor
 
 > Kevin Stephenson
 
-In the below email there is no subject line, and there is a typo. (Always proofread). This email is also unnecessarily wordy and like the ones above, does not mention any specifics about the interview. In a thank you note, don’t mention or assume that you’ll be talking next steps with the interviewer or someone else at the company. Also this note should be broken up into smaller paragraphs.
+In the below email there is no subject line, and there are typos. (Always proofread). This email is also unnecessarily wordy and like the ones above, does not mention any specifics about the interview. In a thank you note, don’t mention or assume that you’ll be talking next steps with the interviewer or someone else at the company. Also this note should be broken up into smaller paragraphs.
 
 > Subject: [None]
 
@@ -153,4 +153,4 @@ In the below email there is no subject line, and there is a typo. (Always proofr
 
 ### Next Steps
 
-Consider your previous thank you notes. Think about what you did successfully. What did you do successfully? What was missing? Use this lesson to help you craft strong, impactful thank you notes and habits going forward. Be sure to run the first few thank you notes by your Career Coach before sending them.
+Consider your previous thank you notes. Think about what you did successfully. What was missing? Use this lesson to help you craft strong, impactful thank you notes and habits going forward. Be sure to run the first few thank you notes by your Career Coach before sending them.
